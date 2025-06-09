@@ -1,1 +1,2 @@
 # GameboxTask
+Malinkovich Igor Alexandrovich
